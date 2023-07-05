@@ -3,10 +3,11 @@
 
 
 # farm_harvest
-git clone https://github.com/jawadfarm/farm_harvest.git
-cd farm_harvest
-ls
-python 3 farm_ha.py
+`git clone https://github.com/jawadfarm/farm_harvest.git`
+`cd farm_harvest`
+`ls`
+farm_ha.py
+`python 3 farm_ha.py`
 ______________________________________________________
 git clone https://github.com/jawadfarm/farm_harvest2.git cd farm_harvest2 ls python3 farm_ha.py (|farm<>harvest|) |||||||||||| |_1.7| a = get all p=ping :a url:https://you_url.com url:https://google.com <Response [200]>
 
